@@ -3,13 +3,13 @@
 
 from setuptools import setup
 
-setup(name='Glide Rithm',
+setup(name='Glide Springboard',
       version='1.1',
-      description='Rithm themes for Glide.',
-      author='Joel Burton',
-      author_email='joel@joelburton.com',
-      url='https://github.com/joelburton/glide-rithm',
-      packages=['glide_rithm'],
+      description='Springboard themes for Glide.',
+      author='Elie Schoppik',
+      author_email='eschoppik@gmail.com',
+      url='https://github.com/elie/glide-springboard',
+      packages=['glide_springboard'],
       install_requires=["glide"],
       include_package_data=True,
      )
