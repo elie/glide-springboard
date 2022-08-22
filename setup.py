@@ -9,7 +9,7 @@ setup(
     description='springboard themes for Glide.',
     author='Joel Burton',
     author_email='joel@joelburton.com',
-    url='https://github.com/joelburton/glide-springboard',
+    url='https://github.com/elie/glide-springboard',
     packages=['glide_springboard'],
     install_requires=["glide"],
     include_package_data=True,
