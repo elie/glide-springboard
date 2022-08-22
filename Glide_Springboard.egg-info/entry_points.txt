@@ -1,0 +1,4 @@
+[sphinx.html_themes]
+handouts-springboard = glide_springboard
+revealjs-springboard = glide_springboard
+
